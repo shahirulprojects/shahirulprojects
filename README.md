@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several personal projects<br>👯I'm looking to collaborate on developing website for clients<br>🤝 I'm looking for help with a deeper understanding of server-side development<br>🌱 I’m currently learning on different technologies of web development<br>💬 Ask me about web development<br>⚡ Fun fact : I still cant move on from the Paper Towns movie T_T
+🔭 I’m currently working on several personal projects<br>👯I'm looking to collaborate on developing website for clients<br>🤝 I'm looking for help with a deeper understanding of server-side development<br>🌱 I’m currently learning on different technologies of web development<br>💬 Ask me about web development<br>⚡ Fun fact : My love for Oreos matches my passion for web development
 
 
 ## 🌐 Socials:
