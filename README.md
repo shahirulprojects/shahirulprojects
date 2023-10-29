@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on several personal projects<br>👯I'm looking to collaborate on developing website for clients<br>🤝 I'm looking for help with a deeper understanding of server-side development<br>🌱 I’m currently learning on different technologies of web development<br>💬 Ask me about web development<br>⚡ Fun fact : My love for Oreos matches my passion for web development
+# Holla everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+Nice to meet you, I'm Shahirul Ikmal!
+
+## Who Am I? 🤠
+
+- 🤓 A computer science degree student 
+- 👩‍💻 Working on Web Development 
+- 📝 Writing Codes, Learning New Technologies
+- 🎯 Goal : To be a Web Developer 
+- 📫 How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
+- 💌 Fun Facts : 
+    - Loves food but can't' cook 🐼 
+    - My affection for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 🙂
+    - I still can't move one from the Paper Towns movie 🙃
+
+<br>
 
 
 ## 🌐 Socials:
