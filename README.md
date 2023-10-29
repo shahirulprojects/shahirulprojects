@@ -4,10 +4,10 @@ Nice to meet you, I'm Shahirul Ikmal!
 
 ## Who Am I? 🤠
 
-- 🤓 A computer science degree student 
-- 👩‍💻 Working on Web Development 
+- 🤓 A Computer Science degree student 
+- 👩‍💻 Currently working on several personal web projects
 - 📝 Writing Codes, Learning New Technologies
-- 🎯 Goal : To be a Web Developer 
+- 🎯 Goal : To be a better Web Developer 
 - 📫 How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
