@@ -10,9 +10,9 @@ Nice to meet you, I'm Shahirul Ikmal!
 - 🎯 Goal : To be a better Web Developer 
 - 📫 How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 🙂
-    - I still can't move one from the Paper Towns movie 🙃
+    - Loves food but can't cook 🦖
+    - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 😆
+    - I still can't move one from the Paper Towns movie 🥲
 
 <br>
 
