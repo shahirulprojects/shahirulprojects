@@ -7,7 +7,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 - 🤓 A Computer Science degree student 
 - 👩‍💻 Currently working on several personal web projects
 - 📝 Writing Codes, Learning New Web Technologies
-- 🎯 Goal : To be a better Web Developer 
+- 🎯 Motto : Code with clarity, Debug with patience!
 - 📫 How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - 💌 Fun Facts : 
     - Loves food but can't cook 🦖
