@@ -4,7 +4,7 @@
 
 Nice to meet you, I'm Shahirul Ikmal!
 
-## Who Am I? 
+# Who Am I? 
 
 - A Computer Science degree student 
 - Currently working on several personal web projects
@@ -19,7 +19,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 <br>
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahirul-work/) 
 
 # Tech Stack:
