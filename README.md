@@ -2,7 +2,7 @@
 
 # Holla everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Shahirul Ikmal. Discover more about me at ![](https://shahirul.com/)
+Nice to meet you, I'm Shahirul Ikmal!
 
 # Who Am I? 
 
