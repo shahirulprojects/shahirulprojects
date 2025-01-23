@@ -12,7 +12,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 - Motto : Code with clarity, Debug with patience!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - Fun Facts : 
-    - Loves food but can't cook 
+    - My favourite current emoji to use is 🦜
     - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 
     - I still can't move one from the Paper Towns movie 
 
