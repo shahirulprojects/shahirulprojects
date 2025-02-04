@@ -51,6 +51,15 @@ Nice to meet you, I'm Shahirul Ikmal!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-%23003BEA.svg?style=for-the-badge&logo=clerk&logoColor=white)
+![Dwolla](https://img.shields.io/badge/Dwolla-FF5C00?style=for-the-badge&logo=d&logoColor=white)
+![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white)
+![GetStream](https://img.shields.io/badge/GetStream-%2300ACEE.svg?style=for-the-badge&logo=getstream&logoColor=white)
+![TinyMCE](https://img.shields.io/badge/TinyMCE-0971B2?style=for-the-badge&logo=tinymce&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)
+![Nativewind](https://img.shields.io/badge/Nativewind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![API](https://img.shields.io/badge/API-%230000FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahirulprojects&theme=dark&hide_border=false)<br/>
 
