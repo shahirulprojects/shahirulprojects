@@ -40,7 +40,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 ![OAuth](https://img.shields.io/badge/OAuth-1A1A1A?style=for-the-badge&logo=oauth&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-%23003BEA.svg?style=for-the-badge&logo=clerk&logoColor=white)
 ![2FA](https://img.shields.io/badge/2FA-%23008080.svg?style=for-the-badge&logo=privacytip&logoColor=white)
-![API](https://img.shields.io/badge/API-%230000FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![API](https://img.shields.io/badge/API-%230000FF.svg?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
