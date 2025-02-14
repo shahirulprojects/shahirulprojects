@@ -5,7 +5,7 @@
 Nice to meet you, I'm Shahirul Ikmal!
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200">
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 # Who Am I? 
 
