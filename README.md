@@ -20,9 +20,6 @@ Nice to meet you, I'm Shahirul Ikmal!
     - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 
     - I still can't move one from the Paper Towns movie 
 
-<br>
-
-
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahirul-work/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://shahirul.com/)
