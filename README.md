@@ -3,6 +3,7 @@
 # Holla everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Shahirul Ikmal!
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 # Who Am I? 
 
@@ -72,4 +73,6 @@ Nice to meet you, I'm Shahirul Ikmal!
 # Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/shahirulprojects/shahirulprojects/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
+
