@@ -14,9 +14,9 @@ Nice to meet you, I'm Shahirul Ikmal!
 - Motto : Code with clarity, Debug with patience!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - Fun Facts : 
-    - I love ice skating
+    - I love ice skating!
     - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 
-    - I still can't move one from the Paper Towns movie 
+    - I still can't move on from the Paper Towns movie :,)
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahirul-work/) 
