@@ -34,7 +34,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-black?style=for-the-badge&logo=framer&logoColor=white&color=0055FF)  
+![Framer](https://img.shields.io/badge/-Framer-black?style=for-the-badge&logo=framer&logoColor=white&color=0055FF)
 ![Three.js](https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logo=threedotjs&logoColor=white&color=000000)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
