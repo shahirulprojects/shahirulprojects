@@ -8,7 +8,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 
 # Who Am I? 
 
-- A Product Engineer (Full-Stack Developer) 
+- A Computer Science student
 - Currently working on several personal web projects
 - Writing Codes, Learning New Web Technologies
 - Motto : Code with clarity, Debug with patience!
