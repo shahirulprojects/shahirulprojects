@@ -9,7 +9,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 # Who Am I? 
 
 - A Product Engineer (Full Stack Developer)
-- Currently working on several personal web projects
+- Currently working on work projects therefore I am currently not active on this account
 - Writing Codes, Learning New Web Technologies
 - Motto : Code with clarity, Debug with patience!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
