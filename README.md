@@ -1,20 +1,20 @@
 <!--[Profile Banner Github](https://github.com/user-attachments/assets/01e041f0-b891-4c5e-9ee7-31b97e642e0f)-->
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-# Holla everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Holla everyone!
 
 Nice to meet you, I'm Shahirul Ikmal!
 
 
 # Who Am I? 
 
-- A Product Engineer (Full Stack Developer)
-- Currently working on work related projects therefore I am currently not active on this account
-- Writing Codes, Learning New Web Technologies
-- Motto : Code with clarity, Debug with patience!
+- A Product Engineer
+- Currently engaged in work-related projects while simultaneously pursuing data engineering learning initiatives on the side
+- Writing Codes, Learning New Technologies
+- Motto : Learn, learn, and learn!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
 - Fun Facts : 
-    - I love ice skating!
+    - I love going to the cinemas!
     - My love for Oreos and Kinder Buenos is like a programmer's unwavering dedication to debugging - unbreakable! 
     - I still can't move on from the Paper Towns movie :,)
 
