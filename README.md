@@ -9,7 +9,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 # Who Am I? 
 
 - A Product Engineer
-- Currently engaged in work-related projects while simultaneously pursuing data engineering learning initiatives on the side
+- Currently engaged in work-related projects while while upskilling in Python backend development
 - Writing Codes, Learning New Technologies
 - Motto : Learn, learn, and learn!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
@@ -28,6 +28,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
