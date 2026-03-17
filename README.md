@@ -9,7 +9,7 @@ Nice to meet you, I'm Shahirul Ikmal!
 # Who Am I? 
 
 - A Product Engineer
-- Currently engaged in work-related projects while while upskilling in Python backend development
+- Currently engaged in work-related projects
 - Writing Codes, Learning New Technologies
 - Motto : Learn, learn, and learn!
 - How to reach me : [shahirulwork@gmail.com](mailto:shahirulwork@gmail.com)
